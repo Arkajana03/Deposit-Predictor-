@@ -52,7 +52,7 @@ The dataset is split into two files:
 
 ---
 
-##⚙️ Technologies Used
+###⚙️ Technologies Used
 
 * **Python 3.x**
 * **Pandas, NumPy** – Data Manipulation
@@ -65,7 +65,7 @@ The dataset is split into two files:
 
 ---
 
-##🔍 Workflow
+###🔍 Workflow
 
 1. **Data Exploration & Cleaning**
 
@@ -87,7 +87,7 @@ The dataset is split into two files:
 4. **Prediction**
 
    * Predict outcomes on unseen `test.csv` data
-   * Save results to a CSV file
+   * Save results to a CSV file 
 
 ---
 
@@ -97,22 +97,6 @@ The best model achieved:
 
 * **Accuracy**: *X%*
 * **F1-Score**: *Y%*
-* **ROC-AUC Score**: *Z%*
-
-*(Add metrics after evaluating your model)*
-
----
-
-### 📂 Project Structure
-
-```
-├── train.csv
-├── test.csv
-├── TermDeposit_Prediction.ipynb
-├── model.pkl
-├── README.md
-└── predictions.csv
-```
 
 ---
 
@@ -126,6 +110,3 @@ This project showcases how **machine learning can reduce costs and improve ROI**
 
 This project is part of the **Final Assignment** in the course and demonstrates practical implementation of classification techniques learned during the curriculum.
 
----
-
-Would you like me to extract and summarize the contents of the `.zip` file you uploaded as well (e.g., notebook code, output, or visualizations) and update the README further?
