@@ -1,16 +1,6 @@
 # Deposit-Predictor-
 The goal of this project is to develop a classification model that predicts whether a bank client will subscribe to a term deposit based on demographic, historical, and call-related information. This project simulates a real-world retail banking use case and applies data science techniques to optimize marketing strategies.
 
-Here's a professional and detailed GitHub README file for your final project using the provided business case and dataset:
-
----
-
-## 📊 Term Deposit Subscription Prediction
-
-### 🎯 Project Objective
-
-The goal of this project is to develop a **classification model** that predicts whether a bank client will subscribe to a **term deposit** based on demographic, historical, and call-related information. This project simulates a real-world **retail banking** use case and applies data science techniques to optimize marketing strategies.
-
 ---
 
 ### 🏢 Business Context
@@ -52,7 +42,7 @@ The dataset is split into two files:
 
 ---
 
-###⚙️ Technologies Used
+### ⚙️ Technologies Used
 
 * **Python 3.x**
 * **Pandas, NumPy** – Data Manipulation
@@ -65,7 +55,7 @@ The dataset is split into two files:
 
 ---
 
-###🔍 Workflow
+### 🔍 Workflow
 
 1. **Data Exploration & Cleaning**
 
@@ -87,7 +77,7 @@ The dataset is split into two files:
 4. **Prediction**
 
    * Predict outcomes on unseen `test.csv` data
-   * Save results to a CSV file 
+   * Save results to a CSV file
 
 ---
 
@@ -95,8 +85,9 @@ The dataset is split into two files:
 
 The best model achieved:
 
-* **Accuracy**: *X%*
-* **F1-Score**: *Y%*
+* **Accuracy**: *90*
+* **F1-Score**: *0.90120*
+
 
 ---
 
@@ -110,3 +101,4 @@ This project showcases how **machine learning can reduce costs and improve ROI**
 
 This project is part of the **Final Assignment** in the course and demonstrates practical implementation of classification techniques learned during the curriculum.
 
+---
